@@ -24,4 +24,4 @@ Figma
 
 GitHub Pages
 
-[Link to the project on GitHub Pages](https://github.com/MorYitz/web_project_3.git)
+[Link to the project on GitHub Pages](https://moryitz.github.io/web_project_3/)
