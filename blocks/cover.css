@@ -26,7 +26,7 @@
   z-index: -1;
 }
 .cover__button {
-  margin: 32px auto 0 auto;
+  margin: 32px auto 246px auto;
 }
 .cover__subtitle {
   font-size: 18px;
@@ -46,6 +46,7 @@
   color: #fffdfd;
   padding: 0;
   margin-bottom: 32px;
+  margin-top: 246px;
 }
 
 .cover:hover::before {
@@ -60,12 +61,7 @@
     margin-top: 88px;
   }
 }
-.cover__title {
-  margin-top: 246px;
-}
-.cover__button {
-  margin-bottom: 246px;
-}
+
 @media screen and (max-width: 425px) {
   .cover {
     width: 100%;
